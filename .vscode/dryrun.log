@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/mg/Documents/MCUXpressoIDE_11.5.0_7232/workspace/evkmimxrt1170_freertos_hello_cm7'
+make.exe: Leaving directory 'c:/Users/mg/Documents/MCUXpressoIDE_11.5.0_7232/workspace/evkmimxrt1170_freertos_hello_cm7'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+ 
